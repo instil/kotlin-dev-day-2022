@@ -7,10 +7,10 @@ fun main() {
 
 fun demo(input: Int) {
     fun printMsg(text: String) = println(text)
-    printMsg("Hello Kotlin Koders!")
+    printMsg("Hello Kotlin Dev Day!")
 }
 
 fun demo(input: Double) {
     fun printMsg(text: String) = println(text)
-    printMsg("Bonjour Kotlin Koders!")
+    printMsg("Bonjour Kotlin Dev Day!")
 }
